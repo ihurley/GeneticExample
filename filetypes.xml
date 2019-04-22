@@ -1,0 +1,10 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="password 4" type="PLAIN_TEXT" />
+      <mapping pattern="password 2" type="PLAIN_TEXT" />
+      <mapping pattern="password 1" type="PLAIN_TEXT" />
+      <mapping pattern="password 3" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
